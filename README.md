@@ -1,4 +1,4 @@
-# Programming Fundamentals: Lab Solutions
+# Programming Fundamentals: Lab Solutions (Incomplete)
 ## Spring 2022 (Fast Nuces Lhr)
 
 This repository contains the solutions to the PF Lab questions from my lectures at the Winter 2022 semester at FAST NUCES Lhr. These solutions are intended to help students who are struggling with understanding the concepts and solving the assignments.
