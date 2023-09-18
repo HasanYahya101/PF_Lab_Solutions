@@ -9,7 +9,7 @@ _**Note:** that these solutions are provided for the Lab (subject), not the theo
 If you notice any errors in the solutions or would like to suggest improvements, please feel free to open an issue or submit a pull request. Contributions are always welcome!
 
 ### Warning:
-You might not not find all the Solution files in here. I will try to add as many as i can, but i don't have all of them available. Also, the Instructions PDFs might also not be available. I lost most of the code and PDFs, so keep in mind that this is not a complete repo.
+You might not find all the Solution files in here. I will try to add as many as i can, but i don't have all of them available. Also, the Instructions PDFs might also not be available. I lost most of the code and PDFs. So, keep in mind that this is not a complete repo.
 
 ### License:
 This repository is licensed under the **MIT License.** See the **LICENSE** file for more information.
